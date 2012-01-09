@@ -1,0 +1,10 @@
+{
+  "title": "Bootstrap Hero",
+  "description": "A template based on Twitter's Bootstrap Hero template",
+  "thumbnail": "thumbnail.png",
+  "template": "template.html",
+  "files": [
+    "template.html",
+    "thumbnail.gif"
+  ]
+}
